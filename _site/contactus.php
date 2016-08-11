@@ -122,7 +122,7 @@ mail($my_email,$subject,$message,$headers);
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
-<meta name="keywords" content="Asphalt Products and Properties, Beach Erosion and Shoreline Protection, Buildings Energy Management, Building Optimal Design, Composites and Construction, Concrete Products and Specifications, Construction Materials, Construction Safety and Standards, Emergency, Risk Management, and Disaster Preparation, Financial Considetation and Construction, Green Design, Harbor Design, Maintenance Management, Marine Structures, Modelling and Simulation, New and Advanced Construction Materials, New Technologies in Structural Design and Construction, Roofing and Road Materials, Seismic Control, Special Structures, Soils and Rock Mechanics and Characterization, Unground Structures, structural engineering, structural engineering conference 2017, building design, building design conference, construction conference, construction management conference, structural dynamics conference, earthquake conference, construction management, structural dynamics, earthquake engineering, structural conference 2017, structural engineering conference, spain conference, construction, earthquake, earthquake engineering conference, world conference on earthquake engineering, seismic engineering, engineering conference, world conference, world engineering congress, world engineering conference, earthquake world, paper submission, engineering world, civil engineering conference, conferences around the world, structure conference, risk management cases, structures, risk management case, non building structures, engineering design competition, geotechnical and structural engineering, structural engineering conference, structural engineering technology, structural engineering international, international aset, open conf, new technology conference, conference engineering, structural engineer journal, large span structures, civil engineering new technologies, openconf, structural conference 2017, barcelona structural conference, Barcelona conference 2017, Civil engineering conference barcelona, Beach erosion, shoreline, shoreline protection, underground structure, civil engineer, blast load, blast load characterisation, impact load, impact load characterisation, bridge tructure, transportation structure, computational method, construction materials, risk assessment, special structures, bridge design, construction, foundations, inspection, substructure, smart bridge, mega bridge, railroad, railroad bridge, Rehabilitation, Safety of Bridges, Seismic, Codes and Standards, Cold Formed Steel, Composite Construction, Concrete Buildings, concrete, Fire Engineering, smart structures, damping, isolation, Masonry Buildings, Resilience and Sustainability, Stadiums, Steel Buildings , Seismic Design, Seismic Retrofitting, Structural Innovations, Wind Engineering, tall buildings, Wood Structures, Globalization, Licensing and Certification, Failures due to product or material defects, Climate Change, earthquake, Hurricane, Tornado, Storm surge, Automobile Structures, plant design, Heavy Industrial Structures, dams,Future of Structural Engineering, Structural Analysis and Design, Computer-Aided Design, vibration analysis, vibration control, Plasticity,  Structural Stability, Buckling Phenomena, Structural Optimisation, Lightweight Structures, Plates and Shells, towers, Structural Safety and Reliability, Structural Risk Analysis, Structural Identification, Structural Assessment, Damage Detection, Structural Health Monitoring, Repair, Strengthening and Rehabilitation, Historic Buildings, Architecture, Construction Technology and Methods, Structural Engineering Education, Ceiling Systems">
+<meta name="keywords" content="structural engineering, structural engineering conference 2016, building design, building design conference, prague, construction conference, construction management conference, structural dynamics conference, earthquake conference, construction management, structural dynamics, earthquake engineering, structural conference 2016, structural engineering conference, prague conference, construction, earthquake, earthquake engineering conference">
 <title>ICSENM'17 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
@@ -208,7 +208,9 @@ mail($my_email,$subject,$message,$headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+
+<p class="body" style="text-align:center!important;">ICSENM'17 is part of the <b>2<sup>nd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'17)</b>. For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
         </div>
     </div>
 
@@ -234,7 +236,9 @@ mail($my_email,$subject,$message,$headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+
+<p class="body" style="text-align:center!important; color: #FFF!important;">ICSENM'17 is part of the <b>2<sup>nd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'17)</b>.<br>For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
         </div>
         </div> 
       </div>
