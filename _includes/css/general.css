@@ -234,6 +234,13 @@ th {
   font-family: 'Lato', sans-serif;
 }
 
+.anchor{
+  display: block;
+  height: 114px; /*same height as header*/
+  margin-top: -114px; /*same height as header*/
+  visibility: hidden;
+}
+
 .keynotes {
 	border-bottom: #A6CDCD 1px solid;
 	text-align: left;
