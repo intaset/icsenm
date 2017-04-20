@@ -67,9 +67,9 @@ $headers = "From: " . $_REQUEST['email'];
 
 $your_email = $_REQUEST['email'];
 
-$your_subject = "Your Registration Details for ICSENM'17";
+$your_subject = "Your Registration Details for ICSENM'18";
 
-$your_headers = "From: ICSENM'17 <" . $my_email . ">";
+$your_headers = "From: ICSENM'18 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -115,7 +115,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="structural engineering, structural engineering conference 2016, building design, building design conference, prague, construction conference, construction management conference, structural dynamics conference, earthquake conference, construction management, structural dynamics, earthquake engineering, structural conference 2016, structural engineering conference, prague conference, construction, earthquake, earthquake engineering conference">
-<title>ICSENM'17 - Registration Form Filled!</title>
+<title>ICSENM'18 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -144,7 +144,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>ICSENM'17</h1>
+  <h1>ICSENM'18</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Paper Submissions</a></li>
@@ -186,8 +186,8 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>2<sup>nd</sup> International conference on Structural<br>Engineering, New Technology and Methods (ICSENM'17)</h1>
-          <p class="subhead">April 2 - 4, 2017 | Barcelona, Spain</p>
+          <h1>3<sup>rd</sup> International conference on Structural<br>Engineering, New Technology and Methods (ICSENM'18)</h1>
+          <p class="subhead">April 8 - 10, 2018 | BUDAPEST, HUNGARY</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -202,7 +202,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
 </div><br>
 
-<p class="body" style="text-align:center!important;">ICSENM'17 is part of the <b>2<sup>nd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'17)</b>. For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
+<p class="body" style="text-align:center!important;">ICSENM'18 is part of the <b>3<sup>rd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'18)</b>. For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
         </div>
     </div>
 
@@ -214,8 +214,8 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>2<sup>nd</sup> International conference on Structural<br>Engineering, New Technology and Methods (ICSENM'17)</h1>
-          <p class="subhead">April 2 - 4, 2017 | Barcelona, Spain</p>
+          <h1>3<sup>rd</sup> International conference on Structural<br>Engineering, New Technology and Methods (ICSENM'18)</h1>
+          <p class="subhead">April 8 - 10, 2018 | BUDAPEST, HUNGARY</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -230,7 +230,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
 </div><br>
 
-<p class="body" style="text-align:center!important; color: #FFF!important;">ICSENM'17 is part of the <b>2<sup>nd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'17)</b>.<br>For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
+<p class="body" style="text-align:center!important; color: #FFF!important;">ICSENM'18 is part of the <b>3<sup>rd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'18)</b>.<br>For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
         </div>
         </div> 
       </div>
@@ -244,23 +244,27 @@ mail($your_email,$your_subject,$message,$your_headers);
       <div id="main-slider" class="liquid-slider">
     <div>
       <h2 class="title">1</h2>
-      <p class="bold">ICSENM 2017:</p>
-      <p class="body">ICSENM 2017 will  be held in Barcelona, Spain on April 2 - 4, 2017 at the Alimara Hotel Barcelona.</p>
+      <p class="bold">ICSENM 2018:</p>
+      <p class="body">ICSENM 2018 will be held in Barcelona, Spain on April 2 - 4, 2017 at the at the Novotel Budapest Centrum.</p>
 
-      <p class="bold">CSEE'17 Workshop</p>
+      <p class="bold">CSEE'18 Workshop</p>
       
-      <p class="body">International ASET Inc. is proud to present <b>Dr. Hany El Naggar</b> and <b>Dr. Mohamed Shahin</b> as the presenters of our workshop for the 2<sup>nd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'17).</p>
+       <p class="body">As per popular request, the organizing committee has decided to extend the ICGRE'18 conference to three days (April 8 - 10, 2018). The new high-level schedule is as follows:</p>
 
-      <p class="body" style="text-align: center!important;"><b>Topic of Workshop:</b> <i>Workshop on Numerical Modelling in Geotechnical Engineering</i></p>
-
-      <p class="body"><b>Workshop Objectives:</b> This intensive workshop will provide you with the needed theory and practical background required to confidently utilize modern analysis software to achieve practical solutions to challenging geotechnical problems. The workshop includes two modelling modules: Finite Elements and Artificial Intelligence.</p>
-
-       <p class="body">The workshop will be held on <b>April 2<sup>nd</sup>, 2017</b> from <b>8:30 am - 4:30 pm</b> Registration for the workshop will be <i>420 EURs (VAT included)</i> and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here.</a></p>
-
-      <p class="body">For more information about the workshop and the speakers, please see the <a href="http://cseecongress.com/CSEE17_Workshop.pdf" target="_blank" class="body-link">workshop flyer</a>.</p>
+      <ul>
+        <li>Day 1: Workshop(s) and Registration</li>
+        <li>Day 2: Main Track Conference Sessions</li>
+        <li>Day 3: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
+      </ul>
       
-      <p class="bold">Poster Board Dimensions:</p>
-      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 130 cm height and 95 cm width.</p>
+      <p class="body">Registration for the workshop will be separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+
+      <p class="body">More information to follow; we greatly appreciate your patience!</p>
+
+      
+
+    <p class="bold">Poster Board Dimensions:</p>
+      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 70 cm width.</p> 
     </div>          
     <div>
       <h2 class="title">2</h2>
@@ -286,7 +290,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
     <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@icsenm.com" class="body-link">registration@icsenm.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at ICSENM'17!</p>
+  <p class="body">We are looking forward to seeing you at ICSENM'18!</p>
   </div>
 </div>
 
@@ -312,29 +316,13 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <div class="past">Feb. 10, 2017</div> Mar. 3, 2017
+    <!-- <div class="past">Feb. 10, 2017</div> --> Sep. 28, 2017
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    <div class="past past-text">Final Regular Registration</div> Extended Regular Registration
-  </div>
-</div>
-</div>
-
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-    <!-- <div class="past">Dec. 10, 2016</div> --> After March 3, 2017
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-    <!-- <div class="past past-text">Notification of Authors</div> -->
-   Late Registration
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Paper Submission Deadline
   </div>
 </div>
 </div>
@@ -342,17 +330,34 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Feb. 01, 2017</div>--> April 2, 2017
+    <!-- <div class="past">Feb. 10, 2017</div> --> Oct. 26, 2017
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    <!-- <div class="past past-text">Final Version of Accepted Submissions Deadline</div>  -->
-    First Day of the Conference
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Notification to Authors
   </div>
 </div>
 </div>
+
+<div class="grid events">
+<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
+  <div class="date">
+    <!-- <div class="past">Feb. 10, 2017</div> --> Nov. 16, 2017
+  </div>
+</div>
+
+<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
+  <div class="unit-spacer">
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Early-Bird Registration
+  </div>
+</div>
+</div>
+
+
+
+<!-- The dates end here -->
 
   </div>
   </div>
@@ -374,7 +379,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICSENM'17, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICSENM'18, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm">
   
