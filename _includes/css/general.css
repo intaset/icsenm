@@ -389,6 +389,7 @@ h1 {
 	color: #A6CDCD;
 }
 
+
 .dot {
 	display: none;
 	color: #A6CDCD;
@@ -397,7 +398,41 @@ h1 {
 	margin: 0;
 	padding: 0 1em;
 }
-
+/* Side-bar Menu */
+.main .side-bar-menu{
+	margin: 0px;
+	padding: 0px; 
+}
+.side-bar-menu{
+	border: 1px solid  #645F57;
+	border-bottom:none;
+	list-style-type: none;
+	margin:0px;
+	padding: 0px; 
+}
+.side-bar-menu li{
+	margin:0px;
+	padding: 0px; 
+}
+.side-bar-menu a {
+	padding: 0.5em;
+	margin:0;
+	color: #645F57;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 1.1em;
+	display: block;
+	width: 100%;
+	text-decoration: none;
+	border-bottom: 1px solid  #645F57;
+	transition: all 0.8s ease;
+}
+.side-bar-menu a:hover {
+	background-color: #A6CDCD;
+	color: #645F57;
+}
 
 /* MOB MENU */
 #slide-menu h1 {
