@@ -206,8 +206,17 @@ mail($my_email,$subject,$message,$headers);
 
   <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
   <div class="unit-spacer">
-    <{% include side-buttons.html %}
+    
+<section class="main">
 
+  <ul class="side-bar-menu" style="padding:0px;">
+    <li><a href="../sponsor">Sponsors &amp; Exhibitors</a></li>
+    <li><a href="../symposium">Symposium &amp; Workshop</a></li>
+  </ul>
+
+</section>
+
+<br><br>
 
   <h2>Upcoming Dates</h2>
 
