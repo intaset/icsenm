@@ -45,7 +45,7 @@ Thank you for registering for ICSENM 2018. If you have requested any official le
 
 If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@icsenm.com. You can find the copyright form here: www.icsenm.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
-To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: www.icsenm.com/accommodation/#Novotel
+To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: https://icsenm.com/accommodation/#Novotel
 
 You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@icsenm.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
