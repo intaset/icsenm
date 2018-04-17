@@ -102,7 +102,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
         <div class="bg">
           <h1>4<sup>th</sup> International conference on Structural<br>Engineering, New Technology and Methods (ICSENM'19)</h1>
-          <p class="subhead">April, 2019 | Rome, Italy</p>
+          <p class="subhead">April 7 - 9, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -128,7 +128,7 @@ mail($my_email,$subject,$message,$headers);
 
         <div class="bg">
           <h1>4<sup>th</sup> International conference on Structural<br>Engineering, New Technology and Methods (ICSENM'19)</h1>
-          <p class="subhead">April, 2019 | Rome, Italy</p>
+          <p class="subhead">April 7 - 9, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
